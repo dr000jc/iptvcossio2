@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Azteca 7" group-title="México",Azteca 7
-http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
+#EXTINF:-1 tvg-name="RCN" group-title="Colombia",Azteca 7
+https://regionales.saohgdasregions.fun:9092/MTg2LjE1OS4xLjI0Mg==/18_.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno" group-title="México",Azteca Uno
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:-1 tvg-name="Azteca Más" group-title="México",Azteca Más
