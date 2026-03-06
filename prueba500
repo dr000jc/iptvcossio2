@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Azteca 7" group-title="México",Azteca 7
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
+#EXTINF:-1 tvg-name="Azteca Uno" group-title="México",Azteca Uno
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1 tvg-name="Azteca Más" group-title="México",Azteca Más
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+#EXTINF:-1 tvg-name="Azteca A+" group-title="México",Azteca A+ | SD
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+#EXTINF:-1 tvg-name="Azteca 13" group-title="México",Azteca 13 | SD
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1 tvg-name="Univision" group-title="EEUU",UNIVISION
+http://tecnotv.xyz/mediaplay/univision
+#EXTINF:-1 tvg-name="Telemundo" group-title="EEUU",Telemundo Opcion 1
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1 tvg-name="Telemundo 51" group-title="EEUU",TELEMUNDO 51 Opcion 2
+http://bit.ly/2iIFCmC
